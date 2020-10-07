@@ -1,1 +1,3 @@
+String Libraries are--
 
+vector<string>a;      //declaration of string
