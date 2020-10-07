@@ -15,7 +15,7 @@ int main()
 { 
 	int num = 5; 
 	cout << "Factorial of "
-		<< num << " is " << factorial(num) << endl; 
+		<< num << " is " << factorial(num) << endl; 		// factorial of a given number
 	return 0; 
 } 
 
