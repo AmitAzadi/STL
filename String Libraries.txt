@@ -1,3 +1,5 @@
 String Libraries are--
 
 vector<string>a;      //declaration of string
+
+sort(a.begin() ,a.end() );
