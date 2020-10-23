@@ -2,4 +2,4 @@ String Libraries are--
 
 vector<string>a;      //declaration of string
 
-sort(a.begin() ,a.end() );
+sort(a.begin() ,a.end() );    // sort a string
