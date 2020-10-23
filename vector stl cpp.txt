@@ -5,3 +5,4 @@ vector< int > a;
 sort(a.begin(),a.end());                     // sort a vector elements from 0th index to last
 reverse(a.begin(),a.end());                // reverse of vector element
 *max_element(a.begin(),a.end());           // returns max element in a vector 
+*min_element( a.begin() , a.end() );
